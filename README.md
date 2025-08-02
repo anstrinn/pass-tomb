@@ -1,9 +1,9 @@
-<img src="https://git.disroot.org/janpstrunn/images/raw/branch/main/pass.png" align="right" height="100"/>
+<img src="https://git.disroot.org/anstrinn/images/raw/branch/main/pass.png" align="right" height="100"/>
 <br>
 
 # pass-tomb: The Crypto Undertaker for Your Passwords
 
-`pass-tomb` is a sophisticated `tomb` script designed to complement [pass](https://github.com/janpstrunn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. This CLI tool enhances the security of your passwords by storing them within an encrypted tomb, ensuring robust protection.
+`pass-tomb` is a sophisticated `tomb` script designed to complement [pass](https://github.com/anstrinn/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. This CLI tool enhances the security of your passwords by storing them within an encrypted tomb, ensuring robust protection.
 
 ## Features
 
@@ -15,13 +15,13 @@
 
 ## Requirements
 
-- [pass](https://github.com/janpstrunn/pass)
+- [pass](https://github.com/anstrinn/pass)
 - `tomb`
 
 ## Installation
 
 ```bash
-curl -sSL https://github.com/janpstrunn/pass-tomb/raw/main/install.sh | bash
+curl -sSL https://github.com/anstrinn/pass-tomb/raw/main/install.sh | bash
 ```
 
 ## Usage
@@ -61,7 +61,7 @@ Examples:
 ```
 
 > [!IMPORTANT]
-> First-time users must set up [pass](https://github.com/janpstrunn/pass) before using `pass-tomb`.
+> First-time users must set up [pass](https://github.com/anstrinn/pass) before using `pass-tomb`.
 
 ## Notes
 
