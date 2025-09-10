@@ -1,6 +1,3 @@
-<img src="https://git.disroot.org/aocoronel/images/raw/branch/main/pass.png" align="right" height="100"/>
-<br>
-
 # pass-tomb: The Crypto Undertaker for Your Passwords
 
 `pass-tomb` is a sophisticated `tomb` script designed to complement [pass](https://github.com/aocoronel/pass), which aims to replace the [passwordstore](https://www.passwordstore.org/) while maintaining its core principles. This CLI tool enhances the security of your passwords by storing them within an encrypted tomb, ensuring robust protection.
